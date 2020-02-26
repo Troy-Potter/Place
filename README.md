@@ -1,4 +1,4 @@
-# CS for Transfers Project 
+# CS for Transfers Project - Place Clone
 
 This was a java project that replicated the reddit.com/r/place activity hosted by reddit. This activity invloved a grid of squares where
 any user who was logged in could change the color of one square every x amount of time. 
